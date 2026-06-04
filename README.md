@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🛠️ BIZDRIVE Skills
+<img src="assets/banner.png" alt="BIZDRIVE Skills — Claude Code skills" width="100%">
 
-### Claude Code skills ของ BizDrive — เครื่องมือเล็กๆ ที่ทำให้ทำงานกับ AI ลื่นขึ้น
+### เครื่องมือเล็กๆ ที่ทำให้ทำงานกับ AI ลื่นขึ้น
 
 [![Made for Claude Code](https://img.shields.io/badge/Made_for-Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)](https://claude.com/claude-code)
 [![Skills](https://img.shields.io/badge/skills-1-4C8BF5?style=flat-square)](#-skills)
